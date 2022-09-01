@@ -8,3 +8,5 @@ SDA = GP0
 SCK = GP1
 
 To check the I2C address use the script attached, remember to rename the script from "i2c-scan.py" to "code.py"
+
+Please refer the script for I2C scan at this link https://learn.adafruit.com/scanning-i2c-addresses/circuitpython
